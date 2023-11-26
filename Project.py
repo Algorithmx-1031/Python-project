@@ -1,7 +1,7 @@
 
 print("")
 print("")
-print("-----   Welcome to G I O LAB   -----")
+print("-----   Welcome to Algorithmx LAB   -----")
 print("")
 
 print("------ Enter room data ------")
